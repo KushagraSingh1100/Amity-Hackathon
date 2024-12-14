@@ -1,0 +1,21 @@
+.buttons{
+    display: flex;
+    padding-left: 2.5vw;
+    justify-content: space-around;
+    width: 50vw;
+    padding: 1vw 2vw;
+}
+
+.buttons button{
+    all: unset;
+    color: rgb(0, 110, 255);
+    font-size: 1.3vw;
+    border: 1px solid rgb(0, 110, 255);
+    border-radius: 1vw;
+    padding: 0.2vw 1vw;
+}
+
+button:hover{
+    cursor: pointer;
+    opacity: 0.6;
+}

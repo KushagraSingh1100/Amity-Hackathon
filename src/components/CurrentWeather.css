@@ -1,0 +1,38 @@
+.currentContainer{
+     height: 17rem;
+     width: 45vw;
+     margin-top: 1rem;
+     font-family: "Noto Sans", sans-serif;
+     background-color: white;
+     padding: 1rem;
+     margin-right: 1rem;
+     border-radius: 1rem;
+     box-shadow: 10px 10px 10px lightblue;
+}
+.temp{
+     padding: 1rem;
+     font-size: xx-large;
+     display: flex;
+}
+.subtext{
+     font-size: medium;
+     font-weight: 500;
+}
+.clouds{
+     justify-content: center;
+     height: auto;
+     width: 5rem;
+}
+.days{
+     display:  flex;
+     justify-content: space-around;
+}
+.day{
+     background-color: rgb(204, 223, 229);
+     /* margin: 1rem; */
+     height: 8rem;
+     width: 5rem;
+     text-align: center;
+     border-radius:1rem;
+     
+}
