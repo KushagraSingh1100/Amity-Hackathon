@@ -14,9 +14,10 @@ export default function AirQuality() {
      <p>Air Quality is poor . You will probably die</p></div>
      
      </div>
-     <div>
-      <h2>15.4 <br>PM 2.5</br></h2>
-      <h2>15.4 <br>PM 10</br></h2><h2>15.4 <br>C02</br></h2>
+     <div className='info'>
+      <h2>15.4 <br/>PM 2.5r</h2>
+      <h2>15.4 <br/>PM 10r</h2>
+      <h2>15.4 <br/>C02r</h2>
      </div>
           
       

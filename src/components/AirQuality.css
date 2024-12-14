@@ -1,9 +1,10 @@
 .airContainer{
      font-family: "Noto Sans", sans-serif;
-     height: 15rem;
+     height: 17rem;
      width: 45vw;
      margin: 1rem;
      padding: 1rem;
+     
      box-shadow: 10px 10px 10px lightblue;
 }
 .subtitle{
@@ -20,4 +21,8 @@ progress {
    .about{
      display: flex;
      justify-content:  space-between;
+   }
+   .info{
+     
+     display: flex;
    }
